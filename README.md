@@ -1,1 +1,2 @@
-# AhnTri_Website
+# AhnTri-website
+Website for AhnTri's server
